@@ -1,8 +1,8 @@
 class StemSplitter < Formula
   desc "AI-powered audio stem separation tool"
   homepage "https://github.com/gentij/stem-splitter-core"
-  url "https://github.com/gentij/stem-splitter-core/archive/refs/tags/v1.1.2.tar.gz"
-  sha256 "81bef9c14c38d63acc6d5ee7029b74c51796deb328176a6239d3979d0b030cc5"
+  url "https://github.com/gentij/stem-splitter-core/archive/refs/tags/v1.1.3.tar.gz"
+  sha256 "3ab774cbdcd5f23ecf3ec3a5ad3a170a2b7a2a0fdcd2f84ff9fcefb1837f40aa"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/gentij/stem-splitter-core.git", branch: "main"
 
